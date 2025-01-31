@@ -16,7 +16,7 @@
       },
       {
         "name": "Dr. Shobha Sundar Ram",
-        "pos": "Head of Department, ECE",
+        "pos": "WIE Faculty Coordinator",
         "img": "/people/shobha.jpeg",
         "social": {
           "fb": "https://www.facebook.com/",
@@ -37,6 +37,18 @@
         },
         "desc": "lorem",
         "a": "./members/3.html"
+      },
+      {
+        "name": "Dr. Ranjitha Prasad",
+        "pos": "SigProSoc Faculty Mentor",
+        "img": "/people/ranjitha.jpg",
+        "social": {
+          "fb": "https://www.facebook.com/",
+          "tw": "https://twitter.com/",
+          "wb": "#"
+        },
+        "desc": "lorem",
+        "a": "./members/3.html"
       }
     ]
   },
@@ -44,268 +56,120 @@
     "team": "IEEE Core Team",
     "members": [
       {
-        "name": "Divyajeet Singh",
+        "name": "Chahat Ahuja",
         "pos": "Chairperson",
-        "img": "/people/divyajeet.jpg",
+        "img": "/people/chahat.jpg",
         "social": {
-          "fb": "https://www.facebook.com/",
-          "tw": "https://twitter.com/",
-          "wb": "#"
+          "fb": "https://www.facebook.com",
+          "tw": "https://x.com",
+          "wb": "#",
+          "email": "ieee@iiitd.ac.in",
+          "phone": "9821585420"
         },
-        "desc": "lorem",
-        "a": "./members/4.html"
+        "desc": "coords ka option nhi hai upar brooo",
+        "a": "./members/115"
       },
       {
-        "name": "Agamdeep Singh",
+        "name": "Satyam",
         "pos": "Vice-Chairperson",
-        "img": "/people/agamdeep.png",
+        "img": "/people/Satyam_ieee.jpg",
         "social": {
-          "fb": "https://www.facebook.com/",
-          "tw": "https://twitter.com/",
-          "wb": "#"
+          "fb": "https://www.facebook.com",
+          "tw": "https://x.com",
+          "wb": "#",
+          "email": "ieee@iiitd.ac.in",
+          "phone": "9821585420"
         },
-        "desc": "lorem",
-        "a": "./members/5.html"
+        "desc": "coords ka option nhi hai upar brooo",
+        "a": "./members/115"
       },
       {
-        "name": "Udbhav Varma",
+        "name": "Yuvraj verma",
         "pos": "General Secretary",
-        "img": "/people/Udbhav.jpg",
+        "img": "/people/Yuvraj Verma.jpg",
         "social": {
-          "fb": "https://www.facebook.com/",
-          "tw": "https://twitter.com/",
-          "wb": "#"
+          "fb": "https://www.facebook.com",
+          "tw": "https://x.com",
+          "wb": "#",
+          "email": "yuvraj23617@iiitd.ac.in",
+          "phone": "8130278155"
         },
-        "desc": "lorem",
-        "a": "./members/6.html"
+        "desc": "Here to make IEEE great again.",
+        "a": "./members/109"
       },
       {
-        "name": "Somay Jalan",
-        "pos": "Treasurer",
-        "img": "/people/somay.jpg",
-        "social": {
-          "fb": "https://www.facebook.com/",
-          "tw": "https://twitter.com/",
-          "wb": "#"
-        },
-        "desc": "lorem",
-        "a": "./members/7.html"
-      },
-      {
-        "name": "Arhaan Bahadur",
+        "name": "Divyansh Mishra",
         "pos": "Webmaster",
-        "img": "/people/arhaan.jpeg",
+        "img": "/people/2025/Divyansh Mishra.jpg",
         "social": {
-          "fb": "https://www.facebook.com/",
-          "tw": "https://twitter.com/",
-          "wb": "#"
+          "fb": "https://www.facebook.com",
+          "tw": "https://x.com",
+          "wb": "#",
+          "email": "divyansh21042@iiitd.ac.in",
+          "phone": "9334808488"
         },
-        "desc": "lorem",
-        "a": "./members/8.html"
+        "desc": "A tech enthusiast turning code into connections fueled by caffeine.",
+        "a": "./members/101"
       },
       {
-        "name": "Manit Kaushik",
-        "pos": "Events Heads (CSE & ECE)",
-        "img": "/people/manit.jpg",
+        "name": "Devesh Roy",
+        "pos": "Events Head",
+        "img": "/people/2025/Devesh Roy.jpg",
         "social": {
-          "fb": "https://www.facebook.com/",
-          "tw": "https://twitter.com/",
-          "wb": "#"
+          "fb": "https://www.facebook.com",
+          "tw": "https://x.com",
+          "wb": "#",
+          "email": "devesh23193@iiitd.ac.in",
+          "phone": "9456973767"
         },
-        "desc": "lorem",
-        "a": "./members/9.html"
+        "desc": "Hi ,I am Devesh from the events team, currently in second year CSAM .A professional doomscroller ,firm believer in skills over cg(have none).Feel free to reach me out, excited to work with you all .",
+        "a": "./members/98"
       },
       {
-        "name": "Riya Sachdeva",
-        "pos": "Events Heads (CSE & ECE)",
-        "img": "/people/core/riya.jpg",
-        "social": {
-          "fb": "https://www.facebook.com/",
-          "tw": "https://twitter.com/",
-          "wb": "#"
-        },
-        "desc": "lorem",
-        "a": "./members/10.html"
-      },
-      {
-        "name": "Parth Barthwal",
+        "name": "Anika Aharwal",
         "pos": "Design Head",
-        "img": "/people/core/parth.jpeg",
+        "img": "/people/2025/Anika Aharwal.jpeg",
         "social": {
-          "fb": "https://www.facebook.com/",
-          "tw": "https://twitter.com/",
-          "wb": "#"
+          "fb": "https://www.facebook.com",
+          "tw": "https://x.com",
+          "wb": "#",
+          "email": "anika23086@iiitd.ac.in",
+          "phone": "8130272251"
         },
-        "desc": "lorem",
-        "a": "./members/11.html"
+        "desc": "life is a soup and i\u2019m the form",
+        "a": "./members/99"
       },
       {
-        "name": "Shamik Sinha",
+        "name": "Anshul Kumar Singh ",
         "pos": "Content Head",
-        "img": "/people/core/ShamikSinha.jpeg",
+        "img": "/people/Anshul Kumar Singh.png",
         "social": {
-          "fb": "https://www.facebook.com/",
-          "tw": "https://twitter.com/",
-          "wb": "#"
+          "fb": "https://www.facebook.com",
+          "tw": "https://x.com",
+          "wb": "#",
+          "email": "anshul23103@iiitd.ac.in",
+          "phone": "8700331344"
         },
-        "desc": "lorem",
-        "a": "./members/12.html"
+        "desc": "hey i am 2nd year csd student",
+        "a": "./members/102"
       },
       {
-        "name": "Mann Nariya",
+        "name": "Abhimanyu",
         "pos": "Operations Head",
-        "img": "/people/core/MannNariya.jpg",
+        "img": "/people/Abhimanyu Sharma.jpeg",
         "social": {
-          "fb": "https://www.facebook.com/",
-          "tw": "https://twitter.com/",
-          "wb": "#"
+          "fb": "https://www.facebook.com",
+          "tw": "https://x.com",
+          "wb": "#",
+          "email": "abhimanyu23021@iiitd.ac.in",
+          "phone": "9650406298"
         },
-        "desc": "lorem",
-        "a": "./members/13.html"
-      }
-    ]
-  },
-  {
-    "team": "Computer Society",
-    "members": [
-      {
-        "name": "Mehul Arora",
-        "pos": "Chairperson",
-        "img": "/people/compsoc/MehulArora.JPG",
-        "social": {
-          "fb": "https://www.facebook.com/",
-          "tw": "https://twitter.com/",
-          "wb": "#"
-        },
-        "desc": "lorem",
-        "a": "./members/14.html"
+        "desc": "Ece sophomore at IIITD. Fun to work with, social guy.",
+        "a": "./members/110"
       },
-      {
-        "name": "Neemesh Yadav",
-        "pos": "Chairperson",
-        "img": "/people/compsoc/NeemeshYadav.jpg",
-        "social": {
-          "fb": "https://www.facebook.com/",
-          "tw": "https://twitter.com/",
-          "wb": "#"
-        },
-        "desc": "lorem",
-        "a": "./members/15.html"
-      },
-      {
-        "name": "Ishir Bhardwaj",
-        "pos": "Vice-Chairperson",
-        "img": "/people/compsoc/IshirBhardwaj.jpg",
-        "social": {
-          "fb": "https://www.facebook.com/",
-          "tw": "https://twitter.com/",
-          "wb": "#"
-        },
-        "desc": "lorem",
-        "a": "./members/16.html"
-      },
-      {
-        "name": "Saksham Singh",
-        "pos": "Secretary",
-        "img": "/people/compsoc/SakshamSingh.jpg",
-        "social": {
-          "fb": "https://www.facebook.com/",
-          "tw": "https://twitter.com/",
-          "wb": "#"
-        },
-        "desc": "lorem",
-        "a": "./members/16.html"
-      }
-    ]
-  },
-  {
-    "team": "Women in Engineering",
-    "members": [
-      {
-        "name": "Prashasti Gupta",
-        "pos": "Chairperson",
-        "img": "/people/wie/PrashastiGupta.jpeg",
-        "social": {
-          "fb": "https://www.facebook.com/",
-          "tw": "https://twitter.com/",
-          "wb": "#"
-        },
-        "desc": "lorem",
-        "a": "./members/17.html"
-      },
-      {
-        "name": "Kartikeya Chhikara",
-        "pos": "Vice-Chairperson",
-        "img": "/people/wie/KartikeyaChhikara.jpg",
-        "social": {
-          "fb": "https://www.facebook.com/",
-          "tw": "https://twitter.com/",
-          "wb": "#"
-        },
-        "desc": "lorem",
-        "a": "./members/18.html"
-      },
-      {
-        "name": "Swarnima Prasad",
-        "pos": "Secretary",
-        "img": "/people/wie/SwarnimaPrasad.jpg",
-        "social": {
-          "fb": "https://www.facebook.com/",
-          "tw": "https://twitter.com/",
-          "wb": "#"
-        },
-        "desc": "lorem",
-        "a": "./members/19.html"
-      }
-    ]
-  },
-  {
-    "team": "Signal Processing Society",
-    "members": [
-      {
-        "name": "Siddhant Rai Viksit",
-        "pos": "Chairperson",
-        "img": "/people/sps/SiddhantRaiViksit.jpg",
-        "social": {
-          "fb": "https://www.facebook.com/",
-          "tw": "https://twitter.com/",
-          "wb": "#"
-        },
-        "desc": "lorem",
-        "a": "./members/17.html"
-      },
-      {
-        "name": "Krishna Ayyagari",
-        "pos": "Vice-Chairperson",
-        "img": "/people/sps/KrishnaAyyagari.jpg",
-        "social": {
-          "fb": "https://www.facebook.com/",
-          "tw": "https://twitter.com/",
-          "wb": "#"
-        },
-        "desc": "lorem",
-        "a": "./members/18.html"
-      },
-      {
-        "name": "Shobhit Pandey",
-        "pos": "Secretary",
-        "img": "/people/sps/ShobhitPandey.jpeg",
-        "social": {
-          "fb": "https://www.facebook.com/",
-          "tw": "https://twitter.com/",
-          "wb": "#"
-        },
-        "desc": "lorem",
-        "a": "./members/19.html"
-      }
-    ]
-  },
-  {
-    "team": "Executive Committee",
-    "members": [
       {
         "name": "Vikas Meena ",
-        "pos": "ExeCom",
+        "pos": "PR Head",
         "img": "/people/Vikas Meena.jpg",
         "social": {
           "fb": "https://www.facebook.com",
@@ -316,11 +180,16 @@
         },
         "desc": "I\u2019m Vikas Meena, a second-year Computer Science Engineering (CSE) student and the PR Lead at IEEE. I love connecting with people, organizing events, and working on cool ideas. I\u2019m all about teamwork and making things happen!",
         "a": "./members/71"
-      },
+      }
+    ]
+  },
+  {
+    "team": "Executive Committee",
+    "members": [
       {
         "name": "Gagandeep singh virdi ",
         "pos": "ExeCom",
-        "img": "/people/Gagandeepsinghvirdi.jpg",
+        "img": "/people/GagandeepSinghVirdi.jpg",
         "social": {
           "fb": "https://www.facebook.com",
           "tw": "https://x.com",
@@ -460,7 +329,7 @@
       {
         "name": "Agrim Upadhyay",
         "pos": "ExeCom",
-        "img": "/people/Agrim Upadhyay.JPG",
+        "img": "/people/Agrim Upadhyay.jpg",
         "social": {
           "fb": "https://www.facebook.com",
           "tw": "https://x.com",
@@ -586,7 +455,7 @@
       {
         "name": "rijusmit biswas",
         "pos": "ExeCom",
-        "img": "/people/2025/rijusmit biswas.jpg",
+        "img": "/people/Rijusmit Biswas.jpg",
         "social": {
           "fb": "https://www.facebook.com",
           "tw": "https://x.com",
@@ -600,7 +469,7 @@
       {
         "name": "Sameeksha dagar",
         "pos": "ExeCom",
-        "img": "/people/2025/Sameeksha dagar.jpg",
+        "img": "/people/Sameeksha Dagar.jpg",
         "social": {
           "fb": "https://www.facebook.com",
           "tw": "https://x.com",
@@ -682,34 +551,6 @@
         "a": "./members/97"
       },
       {
-        "name": "Devesh Roy",
-        "pos": "ExeCom",
-        "img": "/people/2025/Devesh Roy.jpg",
-        "social": {
-          "fb": "https://www.facebook.com",
-          "tw": "https://x.com",
-          "wb": "#",
-          "email": "devesh23193@iiitd.ac.in",
-          "phone": "9456973767"
-        },
-        "desc": "Hi ,I am Devesh from the events team, currently in second year CSAM .A professional doomscroller ,firm believer in skills over cg(have none).Feel free to reach me out, excited to work with you all .",
-        "a": "./members/98"
-      },
-      {
-        "name": "Anika Aharwal",
-        "pos": "ExeCom",
-        "img": "/people/2025/Anika Aharwal.jpeg",
-        "social": {
-          "fb": "https://www.facebook.com",
-          "tw": "https://x.com",
-          "wb": "#",
-          "email": "anika23086@iiitd.ac.in",
-          "phone": "8130272251"
-        },
-        "desc": "life is a soup and i\u2019m the form",
-        "a": "./members/99"
-      },
-      {
         "name": "Ayush",
         "pos": "ExeCom",
         "img": "/people/2025/Ayush Kumar.jpg",
@@ -722,34 +563,6 @@
         },
         "desc": "From tech to trek, always up for a good adventure\u2014whether it\u2019s coding, creating, or exploring the unknown!",
         "a": "./members/100"
-      },
-      {
-        "name": "Divyansh Mishra",
-        "pos": "ExeCom",
-        "img": "/people/2025/Divyansh Mishra.jpg",
-        "social": {
-          "fb": "https://www.facebook.com",
-          "tw": "https://x.com",
-          "wb": "#",
-          "email": "divyansh21042@iiitd.ac.in",
-          "phone": "9334808488"
-        },
-        "desc": "A tech enthusiast turning code into connections fueled by caffeine.",
-        "a": "./members/101"
-      },
-      {
-        "name": "Anshul Kumar Singh ",
-        "pos": "ExeCom",
-        "img": "/people/Anshul Kumar Singh.png",
-        "social": {
-          "fb": "https://www.facebook.com",
-          "tw": "https://x.com",
-          "wb": "#",
-          "email": "anshul23103@iiitd.ac.in",
-          "phone": "8700331344"
-        },
-        "desc": "hey i am 2nd year csd student",
-        "a": "./members/102"
       },
       {
         "name": "Kartik Yadav ",
@@ -836,34 +649,6 @@
         "a": "./members/108"
       },
       {
-        "name": "Yuvraj verma",
-        "pos": "ExeCom",
-        "img": "/people/Yuvraj verma.jpg",
-        "social": {
-          "fb": "https://www.facebook.com",
-          "tw": "https://x.com",
-          "wb": "#",
-          "email": "yuvraj23617@iiitd.ac.in",
-          "phone": "8130278155"
-        },
-        "desc": "Here to make IEEE great again.",
-        "a": "./members/109"
-      },
-      {
-        "name": "Abhimanyu",
-        "pos": "ExeCom",
-        "img": "/people/Abhimanyu Sharma.jpeg",
-        "social": {
-          "fb": "https://www.facebook.com",
-          "tw": "https://x.com",
-          "wb": "#",
-          "email": "abhimanyu23021@iiitd.ac.in",
-          "phone": "9650406298"
-        },
-        "desc": "Ece sophomore at IIITD. Fun to work with, social guy.",
-        "a": "./members/110"
-      },
-      {
         "name": "Himanshu singh",
         "pos": "ExeCom",
         "img": "/people/Himanshu_Singh.jpg",
@@ -918,404 +703,6 @@
         },
         "desc": "Hlo guys it's aryan raj here",
         "a": "./members/114"
-      },
-      {
-        "name": "Chahat Ahuja",
-        "pos": "ExeCom",
-        "img": "/people/chahat.jpg",
-        "social": {
-          "fb": "https://www.facebook.com",
-          "tw": "https://x.com",
-          "wb": "#",
-          "email": "ieee@iiitd.ac.in",
-          "phone": "9821585420"
-        },
-        "desc": "coords ka option nhi hai upar brooo",
-        "a": "./members/115"
-      },
-      {
-        "name": "Mohit Jain",
-        "pos": "ExeCom",
-        "img": "/people/MohitJain.png",
-        "social": {
-          "fb": "https://www.facebook.com/",
-          "tw": "https://twitter.com/",
-          "wb": "#"
-        },
-        "desc": "lorem",
-        "a": "./members/20.html"
-      },
-      {
-        "name": "Deeptorshi Mondal",
-        "pos": "ExeCom",
-        "img": "/people/x/DeeptorshiMondal.jpg",
-        "social": {
-          "fb": "https://www.facebook.com/",
-          "tw": "https://twitter.com/",
-          "wb": "#"
-        },
-        "desc": "lorem",
-        "a": "./members/21.html"
-      },
-      {
-        "name": "Sohum Sikdar",
-        "pos": "ExeCom",
-        "img": "/people/avatar.png",
-        "social": {
-          "fb": "https://www.facebook.com/",
-          "tw": "https://twitter.com/",
-          "wb": "#"
-        },
-        "desc": "lorem",
-        "a": "./members/22.html"
-      },
-      {
-        "name": "Prateek Kumar",
-        "pos": "ExeCom",
-        "img": "/people/x/PrateekKumar.jpg",
-        "social": {
-          "fb": "https://www.facebook.com/",
-          "tw": "https://twitter.com/",
-          "wb": "#"
-        },
-        "desc": "lorem",
-        "a": "./members/23.html"
-      },
-      {
-        "name": "Utsav Garg",
-        "pos": "ExeCom",
-        "img": "/people/x/UtsavGarg.jpg",
-        "social": {
-          "fb": "https://www.facebook.com/",
-          "tw": "https://twitter.com/",
-          "wb": "#"
-        },
-        "desc": "lorem",
-        "a": "./members/24.html"
-      },
-      {
-        "name": "Abhishek",
-        "pos": "ExeCom",
-        "img": "/people/x/AbhishekIIITD.jpg",
-        "social": {
-          "fb": "https://www.facebook.com/",
-          "tw": "https://twitter.com/",
-          "wb": "#"
-        },
-        "desc": "lorem",
-        "a": "./members/25.html"
-      },
-      {
-        "name": "Milind Jain",
-        "pos": "ExeCom",
-        "img": "/people/x/MilindJain.jpeg",
-        "social": {
-          "fb": "https://www.facebook.com/",
-          "tw": "https://twitter.com/",
-          "wb": "#"
-        },
-        "desc": "lorem",
-        "a": "./members/26.html"
-      },
-      {
-        "name": "Aditya Dahiya",
-        "pos": "ExeCom",
-        "img": "/people/x/AdityaDahiya.jpg",
-        "social": {
-          "fb": "https://www.facebook.com/",
-          "tw": "https://twitter.com/",
-          "wb": "#"
-        },
-        "desc": "lorem",
-        "a": "./members/27.html"
-      },
-      {
-        "name": "Amil Bhagat",
-        "pos": "ExeCom",
-        "img": "/people/x/AmilBhagat.jpg",
-        "social": {
-          "fb": "https://www.facebook.com/",
-          "tw": "https://twitter.com/",
-          "wb": "#"
-        },
-        "desc": "lorem",
-        "a": "./members/28.html"
-      },
-      {
-        "name": "Kanishk Goel",
-        "pos": "ExeCom",
-        "img": "/people/x/KanishkGoel.jpeg",
-        "social": {
-          "fb": "https://www.facebook.com/",
-          "tw": "https://twitter.com/",
-          "wb": "#"
-        },
-        "desc": "lorem",
-        "a": "./members/29.html"
-      },
-      {
-        "name": "Tony Thomas",
-        "pos": "ExeCom",
-        "img": "/people/x/TonyThomas.jpg",
-        "social": {
-          "fb": "https://www.facebook.com/",
-          "tw": "https://twitter.com/",
-          "wb": "#"
-        },
-        "desc": "lorem",
-        "a": "./members/30.html"
-      },
-      {
-        "name": "Ayush Srivastava",
-        "pos": "ExeCom",
-        "img": "/people/x/AyushSrivastava.jpg",
-        "social": {
-          "fb": "https://www.facebook.com/",
-          "tw": "https://twitter.com/",
-          "wb": "#"
-        },
-        "desc": "lorem",
-        "a": "./members/31.html"
-      },
-      {
-        "name": "Nishi Ninawat",
-        "pos": "ExeCom",
-        "img": "/people/avatar.png",
-        "social": {
-          "fb": "https://www.facebook.com/",
-          "tw": "https://twitter.com/",
-          "wb": "#"
-        },
-        "desc": "lorem",
-        "a": "./members/32.html"
-      },
-      {
-        "name": "Priyash Shah",
-        "pos": "ExeCom",
-        "img": "/people/x/PriyashShah.jpg",
-        "social": {
-          "fb": "https://www.facebook.com/",
-          "tw": "https://twitter.com/",
-          "wb": "#"
-        },
-        "desc": "lorem",
-        "a": "./members/33.html"
-      },
-      {
-        "name": "Utkarsh Venaik",
-        "pos": "ExeCom",
-        "img": "/people/x/UtkarshVenaik.jpeg",
-        "social": {
-          "fb": "https://www.facebook.com/",
-          "tw": "https://twitter.com/",
-          "wb": "#"
-        },
-        "desc": "lorem",
-        "a": "./members/34.html"
-      },
-      {
-        "name": "Aarav Mathur",
-        "pos": "ExeCom",
-        "img": "/people/x/AaravMathur.png",
-        "social": {
-          "fb": "https://www.facebook.com/",
-          "tw": "https://twitter.com/",
-          "wb": "#"
-        },
-        "desc": "lorem",
-        "a": "./members/35.html"
-      },
-      {
-        "name": "Aditi Sharma",
-        "pos": "ExeCom",
-        "img": "/people/x/AditiSharma.jpg",
-        "social": {
-          "fb": "https://www.facebook.com/",
-          "tw": "https://twitter.com/",
-          "wb": "#"
-        },
-        "desc": "lorem",
-        "a": "./members/36.html"
-      },
-      {
-        "name": "Adya Aggarwal",
-        "pos": "ExeCom",
-        "img": "/people/x/AdyaAggarwal.jpg",
-        "social": {
-          "fb": "https://www.facebook.com/",
-          "tw": "https://twitter.com/",
-          "wb": "#"
-        },
-        "desc": "lorem",
-        "a": "./members/37.html"
-      },
-      {
-        "name": "Akshit Gupta",
-        "pos": "ExeCom",
-        "img": "/people/x/AkshitGupta.jpg",
-        "social": {
-          "fb": "https://www.facebook.com/",
-          "tw": "https://twitter.com/",
-          "wb": "#"
-        },
-        "desc": "lorem",
-        "a": "./members/38.html"
-      },
-      {
-        "name": "Chahat Ahuja",
-        "pos": "ExeCom",
-        "img": "/people/x/ChahatAhuja.jpeg",
-        "social": {
-          "fb": "https://www.facebook.com/",
-          "tw": "https://twitter.com/",
-          "wb": "#"
-        },
-        "desc": "lorem",
-        "a": "./members/39.html"
-      },
-      {
-        "name": "Dhruv Jain",
-        "pos": "ExeCom",
-        "img": "/people/x/DhruvJain.jpg",
-        "social": {
-          "fb": "https://www.facebook.com/",
-          "tw": "https://twitter.com/",
-          "wb": "#"
-        },
-        "desc": "lorem",
-        "a": "./members/40.html"
-      },
-      {
-        "name": "Nishant Singh",
-        "pos": "ExeCom",
-        "img": "/people/x/NishantSingh.jpeg",
-        "social": {
-          "fb": "https://www.facebook.com/",
-          "tw": "https://twitter.com/",
-          "wb": "#"
-        },
-        "desc": "lorem",
-        "a": "./members/41.html"
-      },
-      {
-        "name": "Nishchaya Roy",
-        "pos": "ExeCom",
-        "img": "/people/x/NishchayaRoy.jpeg",
-        "social": {
-          "fb": "https://www.facebook.com/",
-          "tw": "https://twitter.com/",
-          "wb": "#"
-        },
-        "desc": "lorem",
-        "a": "./members/42.html"
-      },
-      {
-        "name": "Nishita Lohana",
-        "pos": "ExeCom",
-        "img": "/people/x/NishitaBharatLohana.jpg",
-        "social": {
-          "fb": "https://www.facebook.com/",
-          "tw": "https://twitter.com/",
-          "wb": "#"
-        },
-        "desc": "lorem",
-        "a": "./members/43.html"
-      },
-      {
-        "name": "Prabal Minotra",
-        "pos": "ExeCom",
-        "img": "/people/x/PrabalMinotra.jpeg",
-        "social": {
-          "fb": "https://www.facebook.com/",
-          "tw": "https://twitter.com/",
-          "wb": "#"
-        },
-        "desc": "lorem",
-        "a": "./members/44.html"
-      },
-      {
-        "name": "Rishima Chadha",
-        "pos": "ExeCom",
-        "img": "/people/x/RishimaChadha.jpg",
-        "social": {
-          "fb": "https://www.facebook.com/",
-          "tw": "https://twitter.com/",
-          "wb": "#"
-        },
-        "desc": "lorem",
-        "a": "./members/45.html"
-      },
-      {
-        "name": "Shaurya Bajaj",
-        "pos": "ExeCom",
-        "img": "/people/x/ShauryaBajaj.jpeg",
-        "social": {
-          "fb": "https://www.facebook.com/",
-          "tw": "https://twitter.com/",
-          "wb": "#"
-        },
-        "desc": "lorem",
-        "a": "./members/46.html"
-      },
-      {
-        "name": "Shubham Gupta",
-        "pos": "ExeCom",
-        "img": "/people/x/ShubhamGuptaIIITD.png",
-        "social": {
-          "fb": "https://www.facebook.com/",
-          "tw": "https://twitter.com/",
-          "wb": "#"
-        },
-        "desc": "lorem",
-        "a": "./members/47.html"
-      },
-      {
-        "name": "Sidhartha Garg",
-        "pos": "ExeCom",
-        "img": "/people/x/SidharthaGarg.jpeg",
-        "social": {
-          "fb": "https://www.facebook.com/",
-          "tw": "https://twitter.com/",
-          "wb": "#"
-        },
-        "desc": "lorem",
-        "a": "./members/48.html"
-      },
-      {
-        "name": "Tanmay Singhal",
-        "pos": "ExeCom",
-        "img": "/people/avatar.png",
-        "social": {
-          "fb": "https://www.facebook.com/",
-          "tw": "https://twitter.com/",
-          "wb": "#"
-        },
-        "desc": "lorem",
-        "a": "./members/49.html"
-      },
-      {
-        "name": "Shyama Sastha K S",
-        "pos": "ExeCom",
-        "img": "/people/avatar.png",
-        "social": {
-          "fb": "https://www.facebook.com/",
-          "tw": "https://twitter.com/",
-          "wb": "#"
-        },
-        "desc": "lorem",
-        "a": "./members/50.html"
-      },
-      {
-        "name": "Kainat Yasmeen",
-        "pos": "ExeCom",
-        "img": "/people/avatar.png",
-        "social": {
-          "fb": "https://www.facebook.com/",
-          "tw": "https://twitter.com/",
-          "wb": "#"
-        },
-        "desc": "lorem",
-        "a": "./members/50.html"
       }
     ]
   },
@@ -1323,16 +710,16 @@
     "team": "Mentors",
     "members": [
       {
-        "name": "Niranjan Sundararajan",
-        "pos": "",
-        "img": "/people/avatar.png",
+        "name": "Divyajeet Singh",
+        "pos": "Chairperson",
+        "img": "/people/divyajeet.jpg",
         "social": {
           "fb": "https://www.facebook.com/",
           "tw": "https://twitter.com/",
           "wb": "#"
         },
         "desc": "lorem",
-        "a": "./members/51.html"
+        "a": "./members/4.html"
       }
     ]
   },
